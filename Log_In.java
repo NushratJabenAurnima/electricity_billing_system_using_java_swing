@@ -207,3 +207,9 @@ public class Log_In extends javax.swing.JFrame {
     private javax.swing.JPasswordField userpassword;
     // End of variables declaration//GEN-END:variables
 }
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Project Done by &copy; Nushrat Jaben Aurnima. All Rights Reserved .</h2>
+</body>
+</html>
